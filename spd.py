@@ -61,4 +61,4 @@ def rd_crcl(d,):	   # if know D
 
 # if you find a bug, or want to offer me help, write to alex.raz1apov@gmail.com
 # Thanks for using this module!
-# Made by Alexandr Razyapov for @Qweialer
+# Made by Qweialer for @Qweialer
